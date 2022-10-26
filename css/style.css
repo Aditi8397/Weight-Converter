@@ -1,0 +1,28 @@
+body{
+  margin-top:70px;
+  background:#333;
+  color:#fff;
+}
+
+.card-block {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card-primary {
+    background-color: #0275d8;
+    border-color: #0275d8;
+	border-radius: .25rem;
+}
+
+.card-success {
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+	border-radius: .25rem;
+}
+
+.card-danger {
+    background-color: #d9534f;
+    border-color: #d9534f;
+	border-radius: .25rem;
+}
